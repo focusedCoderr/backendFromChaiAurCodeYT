@@ -1,0 +1,6 @@
+Question: why in dotenv i just write name of variable and its value
+
+not something like const port: 3000;
+
+and no semi colon as well. is this file in  js or some other language. i think because the file name is .env, it is an extension like
+.pdf and this is how we write things in port
